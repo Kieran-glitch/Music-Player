@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="nosongs">No Songs Available</string>
+</resources>
